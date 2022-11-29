@@ -5,20 +5,18 @@ body {
 }
 
 #profile-container {
-    max-width: 300px;
+
     background-color: white;
-    border: 1px solid gray;
     border-radius: 6px;
+    text-align: center;
 }
 
 #profile-image{
     width: 100%;
     height: auto;
+    border-radius: 6px;
 }
 
-#profile-name{
-    text-align: center;
-}
 
 #header {
     width: 100%;
@@ -27,6 +25,7 @@ body {
     background-color: burlywood;
     text-align: center;
     color: white;
+    border-radius: 6px;
 }
 
 #footer{
@@ -36,6 +35,7 @@ body {
     background-color: pink;
     text-align: center;
     color: white;
+    border-radius: 6px;
 }
 
 
